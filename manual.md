@@ -14,7 +14,7 @@ In order to run this application successfully you need:
 * An android phone to [run/install the project](https://developer.android.com/studio/run/device) (if one is not accessible then you can run them on an [emulator](https://developer.android.com/studio/run/emulator) that is accessible in Android Studio)
 
 Steps: 
-1. Download the zip of the repository on Github including _Assignment4_ folder
+1. Download the zip of the repository on Github including _tipCalculator_AndroidStudio_ folder
 2. Open the project in Android Studio and allow it to load
 3. Choose either the emulator or hardware device and follow the setup instructions in the links above
 4. Click Run and allow the application to download on the device. It should open up automatically
