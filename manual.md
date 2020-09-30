@@ -10,7 +10,7 @@ is split evenly and must be rounded to the nearest integer.
 provided as input.
 
 In order to run this application successfully you need:
-* A copmuter with minimum spcifications to install [Android Studio](https://developer.android.com/studio/?gclid=Cj0KCQjwk8b7BRCaARIsAARRTL6b3e9xDOlbTFMJyImNuu1hsx08VXILK1M_RYx2oM2xL9DJ9-XDPKkaApYCEALw_wcB&gclsrc=aw.ds) 
+* A computer with minimum spcifications to install [Android Studio](https://developer.android.com/studio/?gclid=Cj0KCQjwk8b7BRCaARIsAARRTL6b3e9xDOlbTFMJyImNuu1hsx08VXILK1M_RYx2oM2xL9DJ9-XDPKkaApYCEALw_wcB&gclsrc=aw.ds) 
 * An android phone to [run/install the project](https://developer.android.com/studio/run/device) (if one is not accessible then you can run them on an [emulator](https://developer.android.com/studio/run/emulator) that is accessible in Android Studio)
 
 Steps: 
